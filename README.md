@@ -10,7 +10,6 @@
 - 📚 I'm currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 💼 Interest in Startups and Entrepreneurship
-- 🥅 2023 Goals: Contribute more to Open Source projects
 - 🎤 Giving talks at events on topics related to technology, chatbots and desktop interoperability
 
 ## Experience 💬
